@@ -1,1 +1,1 @@
-This section (will eventually) contains UOSteam scripts compatible developed on Razor Enhanced.
+This section (will eventually) contains compatible UOSteam scripts developed on Razor Enhanced.
